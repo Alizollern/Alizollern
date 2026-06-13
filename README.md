@@ -60,16 +60,16 @@ I am a Systems-focused Software Engineer who treats distributed architectures no
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/alikhanmuratuly">
-    <img src="https://github-readme-stats.vercel.app/api?username=alikhanmuratuly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  <a href="https://github.com/Alizollern">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alizollern&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
-  <a href="https://github.com/alikhanmuratuly">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhanmuratuly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  <a href="https://github.com/Alizollern">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alizollern&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alikhanmuratuly&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alizollern&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" />
 </div>
 
 ---
